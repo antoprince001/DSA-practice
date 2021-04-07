@@ -14,3 +14,4 @@ Collection of Leetcode problems solved for practice
 ## Day 3
 
 - Plus One
+- Move Zeroes
