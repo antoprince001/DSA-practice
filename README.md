@@ -24,3 +24,4 @@ Collection of Leetcode problems solved for practice
 
 - Reverse String
 - Unique Character in String
+- Valid Anagram
