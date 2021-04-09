@@ -15,3 +15,12 @@ Collection of Leetcode problems solved for practice
 
 - Plus One
 - Move Zeroes
+
+## Day 4
+
+- Two Sum
+
+## Day 5
+
+- Reverse String
+- Unique Character in String
