@@ -26,13 +26,13 @@ Collection of Leetcode problems solved for practice
 - Unique Character in String
 - Valid Anagram
 
-## Day 5
+## Day 6
 
 - Cycle in Linked List
 - Reverse Linked List
 - StrStr
 
-## Day 5
+## Day 7
 
 - FizzBuzz
 
