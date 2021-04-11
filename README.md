@@ -35,4 +35,6 @@ Collection of Leetcode problems solved for practice
 ## Day 7
 
 - FizzBuzz
+- Count of Prime
+- Power of Three
 
