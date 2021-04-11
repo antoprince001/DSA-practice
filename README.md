@@ -25,3 +25,14 @@ Collection of Leetcode problems solved for practice
 - Reverse String
 - Unique Character in String
 - Valid Anagram
+
+## Day 5
+
+- Cycle in Linked List
+- Reverse Linked List
+- StrStr
+
+## Day 5
+
+- FizzBuzz
+
