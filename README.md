@@ -38,3 +38,8 @@ Collection of Leetcode problems solved for practice
 - Count of Prime
 - Power of Three
 
+## Day 8
+
+- Max Depth of Tree
+- Validate Binary Search Tree
+
