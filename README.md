@@ -41,20 +41,29 @@ Collection of Leetcode problems solved for practice
 ## Day 8
 
 - Max Depth of Tree
+- Is Valid BST
 
 ## Day 9
 
-- Max Depth of Tree
+- HammingDistance.java
+- FooBar Level 1
 
 ## Day 10
 
-- Max Depth of Tree
+- Level Order Traversal
+- Symmetric Tree
 
-## Day 11
+## Day 11(UDACITY Python Collection)
 
-- Max Depth of Tree
+- Binary Search Tree
+- Graph Traversal
+- HashTable
+- LinkedList
+- Queue
+- Stack
 
-## Day 12
+## Day 12 (DP Problems - Placement Training)
 
-- Max Depth of Tree
+- BarPriceCapacity
+- Subsequent range sum 
 
