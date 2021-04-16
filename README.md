@@ -41,20 +41,20 @@ Collection of Leetcode problems solved for practice
 ## Day 8
 
 - Max Depth of Tree
-- Validate Binary Search Tree
 
 ## Day 9
 
 - Max Depth of Tree
-- Validate Binary Search Tree
 
 ## Day 10
 
 - Max Depth of Tree
-- Validate Binary Search Tree
 
 ## Day 11
 
 - Max Depth of Tree
-- Validate Binary Search Tree
+
+## Day 12
+
+- Max Depth of Tree
 
