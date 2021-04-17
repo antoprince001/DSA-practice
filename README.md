@@ -67,3 +67,9 @@ Collection of Leetcode problems solved for practice
 - BarPriceCapacity
 - Subsequent range sum 
 
+## Day 12 (LinkedIn Learning - Nail your java interview course)
+
+- Palindrome Checker
+- String Counter(Vowels and Consonants)
+
+
