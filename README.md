@@ -1,59 +1,59 @@
 # LeetCode-practice
 Collection of Leetcode problems solved for practice
 
-## Day 1
+### Day 1
 
 - Remove Duplicates From Sorted Array
 
-## Day 2
+### Day 2
 
 - Contains Duplicate
 
 - Single Number
 
-## Day 3
+### Day 3
 
 - Plus One
 - Move Zeroes
 
-## Day 4
+### Day 4
 
 - Two Sum
 
-## Day 5
+### Day 5
 
 - Reverse String
 - Unique Character in String
 - Valid Anagram
 
-## Day 6
+### Day 6
 
 - Cycle in Linked List
 - Reverse Linked List
 - StrStr
 
-## Day 7
+### Day 7
 
 - FizzBuzz
 - Count of Prime
 - Power of Three
 
-## Day 8
+### Day 8
 
 - Max Depth of Tree
 - Is Valid BST
 
-## Day 9
+### Day 9
 
 - HammingDistance.java
 - FooBar Level 1
 
-## Day 10
+### Day 10
 
 - Level Order Traversal
 - Symmetric Tree
 
-## Day 11(UDACITY Python Collection)
+### Day 11(UDACITY Python Collection)
 
 - Binary Search Tree
 - Graph Traversal
@@ -62,12 +62,12 @@ Collection of Leetcode problems solved for practice
 - Queue
 - Stack
 
-## Day 12 (DP Problems - Placement Training)
+### Day 12 (DP Problems - Placement Training)
 
 - BarPriceCapacity
 - Subsequent range sum 
 
-## Day 12 (LinkedIn Learning - Nail your java interview course)
+### Day 13 (LinkedIn Learning - Nail your java interview course)
 
 - Palindrome Checker
 - String Counter(Vowels and Consonants)
