@@ -72,4 +72,9 @@ Collection of Leetcode problems solved for practice
 - Palindrome Checker
 - String Counter(Vowels and Consonants)
 
+### Day 14 (LinkedIn Learning - Nail your java interview course)
+
+- Maximum Product in Array
+- Delete Middle Node Linked List
+
 
