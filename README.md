@@ -77,4 +77,33 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Maximum Product in Array
 - Delete Middle Node Linked List
 
+### Day 15 
 
+- Hey - I -Already -Did- That - Google Foobar Level 2
+
+### Day 16 
+
+### Day 17 
+
+- Even and Odd
+- Version Control
+
+### Day 18 
+
+- ClimbStairs - Bottom Up DP
+- ClimbStairs - Memoization
+- CimbStairs - Recursion
+
+### Day 19 
+
+- ItemSeparator
+
+
+### Day 20 (Placement Training)
+
+- Limits Check 
+
+### Day 21 (LinkedIn Learning - Nail your java interview course)
+
+- n - Fibonacci - DP
+- 0-1 Knapsack - Bottom Up
