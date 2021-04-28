@@ -1,5 +1,5 @@
-# LeetCode-practice
-Collection of Leetcode problems solved for practice
+# DSA-practice
+Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedIn Learning) and Google FooBar Challenge solved for practice
 
 ### Day 1
 
