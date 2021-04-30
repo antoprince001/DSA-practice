@@ -111,3 +111,15 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Abundant-Perfect-Deficit
 - Trailing Zeroes
+
+
+### Day 22 (Placement Training)
+
+- Abundant-Perfect-Deficit
+- Trailing Zeroes
+
+
+### Day 23 (Hackerrank - HackWithInfy)
+
+- Between Two Sets
+
