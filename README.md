@@ -106,12 +106,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - n - Fibonacci - DP
 - 0-1 Knapsack - Bottom Up
-
-### Day 21 (Placement Training)
-
-- Abundant-Perfect-Deficit
-- Trailing Zeroes
-
+- 0-1 Knapsack - Recursion
 
 ### Day 22 (Placement Training)
 
