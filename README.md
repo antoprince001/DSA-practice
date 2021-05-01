@@ -114,7 +114,8 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Trailing Zeroes
 
 
-### Day 23 (Hackerrank - HackWithInfy)
+### Day 23 (HackWithInfy Questions)
 
 - Between Two Sets
+- Special Prime
 
