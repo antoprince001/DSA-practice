@@ -1,5 +1,5 @@
 # DSA-practice
-Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedIn Learning) and Google FooBar Challenge solved for practice
+Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedIn Learning) and Google FooBar Challenge solved for practice.
 
 ### Day 1
 
@@ -119,3 +119,6 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Between Two Sets
 - Special Prime
 
+### Day 24 (HackWithInfy Questions)
+
+- Paper Sheet
