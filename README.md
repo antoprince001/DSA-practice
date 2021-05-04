@@ -123,7 +123,9 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Paper Sheet
 
-### Day 25 (Placement training)
+### Day 25 
+
+### Day 26 (Placement training)
 
 - Absolute value
 - Completed days
