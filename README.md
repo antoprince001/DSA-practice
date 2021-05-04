@@ -122,3 +122,8 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 24 (HackWithInfy Questions)
 
 - Paper Sheet
+
+### Day 25 (Placement training)
+
+- Absolute value
+- Completed days
