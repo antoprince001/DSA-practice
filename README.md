@@ -130,3 +130,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Absolute value
 - Completed days
 - Remaining days
+
+### Day 27 (Placement training)
+
+- Date
