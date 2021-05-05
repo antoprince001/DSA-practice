@@ -24,9 +24,11 @@ int main()
             }
         }
     }
-    else{
+    else if(arr[0] > arr[1]){
         for(itr=0;arr[itr]>arr[itr+1] && itr<SIZE-1;itr++);
-        
+        if(itr==0){
+            flag = 1;
+        }
         if(itr == SIZE-1){
             flag = 1;
         }
@@ -38,6 +40,8 @@ int main()
             }
         }
     }
+    else
+        flag++;
     (flag == 0 )?printf("Bitonic"):printf("Not Bitonic");
     
     return 0;
