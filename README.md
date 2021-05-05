@@ -135,3 +135,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Date
 - Date Difference
+
+### Day 28 (Placement training)
+
+- Monotonic
