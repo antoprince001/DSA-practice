@@ -140,3 +140,8 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Monotonic
 - Bitonic
+
+### Day 29 (Placement training)
+
+- Maximum Sum
+
