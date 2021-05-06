@@ -144,4 +144,5 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 29 (Placement training)
 
 - Maximum Sum
+- Odd Even Segregation
 
