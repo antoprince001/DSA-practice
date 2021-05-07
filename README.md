@@ -146,3 +146,9 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Maximum Sum
 - Odd Even Segregation
 - Minimum Swaps with Key
+
+### Day 30 (Placement training)
+
+- K Nearest Neighbour
+- Remove Duplicate
+- Rotate Array Second Half
