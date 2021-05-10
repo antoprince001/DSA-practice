@@ -166,3 +166,8 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - sWAP cASE
 
 ### Day 32 (HackWithInfy)
+
+### Day 33 (Placement training)
+
+- Spiral Pattern
+- Pattern Problems
