@@ -152,3 +152,17 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - K Nearest Neighbour
 - Remove Duplicate
 - Rotate Array Second Half
+
+### Day 31 (Placement training & Hackerrank)
+
+- Array Rotation
+- Find a string
+- Mutations
+- Next K Elements
+- Patterns(3 Problems)
+- Split and Join
+- String Validators
+- What is your name
+- sWAP cASE
+
+### Day 32 (HackWithInfy)
