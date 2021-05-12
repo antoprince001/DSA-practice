@@ -1,54 +1,54 @@
 # DSA-practice
 Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedIn Learning) and Google FooBar Challenge solved for practice.
 
-### Day 1
+### Day 1 (LeetCode)
 
 - Remove Duplicates From Sorted Array
 
-### Day 2
+### Day 2 (LeetCode)
 
 - Contains Duplicate
 
 - Single Number
 
-### Day 3
+### Day 3 (LeetCode)
 
 - Plus One
 - Move Zeroes
 
-### Day 4
+### Day 4 (LeetCode)
 
 - Two Sum
 
-### Day 5
+### Day 5 (LeetCode)
 
 - Reverse String
 - Unique Character in String
 - Valid Anagram
 
-### Day 6
+### Day 6 (LeetCode)
 
 - Cycle in Linked List
 - Reverse Linked List
 - StrStr
 
-### Day 7
+### Day 7 (LeetCode)
 
 - FizzBuzz
 - Count of Prime
 - Power of Three
 
-### Day 8
+### Day 8 (LeetCode)
 
 - Max Depth of Tree
 - Is Valid BST
 
-### Day 9
+### Day 9 (LeetCode)
 
 - HammingDistance.java
 - FooBar Level 1
 
-### Day 10
+### Day 10 (LeetCode)
 
 - Level Order Traversal
 - Symmetric Tree
@@ -77,24 +77,24 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Maximum Product in Array
 - Delete Middle Node Linked List
 
-### Day 15 
+### Day 15 (FooBar Challenge)
 
 - Hey - I -Already -Did- That - Google Foobar Level 2
 
 ### Day 16 
 
-### Day 17 
+### Day 17 (Past Placement Questions)
 
 - Even and Odd
 - Version Control
 
-### Day 18 
+### Day 18 (GeeksForGeeks)
 
 - ClimbStairs - Bottom Up DP
 - ClimbStairs - Memoization
 - CimbStairs - Recursion
 
-### Day 19 
+### Day 19  (Past Placement Questions)
 
 - ItemSeparator
 
@@ -175,3 +175,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 34 (Placement training)
 
 - Pattern Problems
+
+### Day 35 (Placement training)
+
+- Power of Two - Bitwise
