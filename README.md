@@ -171,3 +171,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Spiral Pattern
 - Pattern Problems (3 Problems)
+
+### Day 34 (Placement training)
+
+- Pattern Problems
