@@ -179,3 +179,25 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 35 (Placement training)
 
 - Power of Two - Bitwise
+- Divisible by four
+- Switch OFF Nth Bit
+- Switch ON Nth Bit
+- Is Sparse
+
+### Day 36 (Placement training)
+
+- Decimal to Binary
+- Divisible by Eight
+- No of Leading Zeroes
+- No of Trailing Zeroes
+
+### Day 37 (Placement training)
+
+- Diagonal Matrix
+- Identity Matrix
+
+### Day 38 (MLSA Session)
+
+### Day 39 (Sixphrase Common Talent Assessment TCS)
+
+- Property Painting
