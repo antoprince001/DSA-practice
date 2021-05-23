@@ -218,8 +218,16 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 ### Day 43 (Placement training)
 
-- Property Painting
+- String Copy
 
 ### Day 44 (Placement training)
 
-- Property Painting
+- Rat in a maze
+
+### Day 45 (MLSA Session 2 Web Development)
+
+### Day 46 (Sixphrase Common Talent Assessment Amazon)
+
+- Maximum Index
+- Longest Common Subsequence in string
+
