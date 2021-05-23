@@ -201,3 +201,25 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 39 (Sixphrase Common Talent Assessment TCS)
 
 - Property Painting
+
+### Day 40 (Placement training)
+
+- 3-4 Series
+- Generate Series
+- Alternate Series
+
+### Day 41 (Placement training)
+
+- N-Queen (Backtracking)
+
+### Day 42 (Placement training)
+
+- Odd One Out
+
+### Day 43 (Placement training)
+
+- Property Painting
+
+### Day 44 (Placement training)
+
+- Property Painting
