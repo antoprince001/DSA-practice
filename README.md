@@ -231,3 +231,11 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Maximum Index
 - Longest Common Subsequence in string
 
+### Day 47 (Placement Question Revarture)
+
+- Valid Quadruples
+
+### Day 48 (Microsoft SDE Test Series - GeeksForGeeks)
+
+- Bubble Sort
+
