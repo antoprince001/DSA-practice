@@ -238,4 +238,5 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 48 (Microsoft SDE Test Series - GeeksForGeeks)
 
 - Bubble Sort
-
+- Insertion Sort
+- Selection Sort
