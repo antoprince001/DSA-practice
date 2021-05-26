@@ -240,3 +240,8 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Bubble Sort
 - Insertion Sort
 - Selection Sort
+
+### Day 49 (Microsoft SDE Test Series - GeeksForGeeks)
+
+- Merge Sort
+- Quick Sort
