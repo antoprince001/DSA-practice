@@ -250,3 +250,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Heap Sort
 - Plus One ( O(N) Approach )
+
+### Day 51 (Microsoft SDE Test Series - GeeksForGeeks)
+
+- Product Array Puzzle
