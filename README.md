@@ -254,3 +254,4 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 51 (Microsoft SDE Test Series - GeeksForGeeks)
 
 - Product Array Puzzle
+- Trapping Rain Water
