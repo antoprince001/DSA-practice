@@ -245,3 +245,8 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Merge Sort
 - Quick Sort
+
+### Day 50 (Microsoft SDE Test Series - GeeksForGeeks)
+
+- Heap Sort
+- Plus One ( O(N) Approach )
