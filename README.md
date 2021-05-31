@@ -260,3 +260,6 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 ### Day 53 (Google Cloud Ready First Milestone Completion)
 
+### Day 54 (Microsoft SDE Test Series - GeeksForGeeks - Greedy Algorithms)
+
+- Majority Element - Moore's Voting Algorithm
