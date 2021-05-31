@@ -255,3 +255,8 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Product Array Puzzle
 - Trapping Rain Water
+
+### Day 52 (Blueprism RPA Test Preparation)
+
+### Day 53 (Google Cloud Ready First Milestone Completion)
+
