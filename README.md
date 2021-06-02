@@ -269,3 +269,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 
 - Caesar Cipher
 - Fuzzy System
+
+### Day 56 (Microsoft SDE Test Series - GeeksForGeeks - Greedy Algorithms)
+
+- job Sequencing Problem
