@@ -265,7 +265,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Majority Element - Moore's Voting Algorithm
 - Fractional Knapsack
 
-### Day 54 ( Sixphrase Common Talent Assessment TCS )
+### Day 55 ( Sixphrase Common Talent Assessment TCS )
 
 - Caesar Cipher
 - Fuzzy System
