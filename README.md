@@ -273,3 +273,9 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 56 (Microsoft SDE Test Series - GeeksForGeeks - Greedy Algorithms)
 
 - job Sequencing Problem
+
+### Day 57 ( NanoTech GAN and Ontology Paper) 
+
+### Day 58 (Microsoft SDE Test Series - GeeksForGeeks - Matrix)
+
+- Search in a matrix
