@@ -281,3 +281,8 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Search in a matrix
 - Is Sudoku Valid
 
+### Day 59 (Sixphrase Common Talent Assessment TCS)
+
+- Prime or Not
+- Monkeys Problem
+
