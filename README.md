@@ -286,3 +286,10 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Prime or Not
 - Monkeys Problem
 
+### Day 60 (Google Cloud Ready Skill track and Quest completion)
+
+### Day 61 (Google Cloud Ready Second Milestone Creation )
+
+### Day 62 (Microsoft SDE Test Series - GeeksForGeeks - Mathematics)
+
+- Trailing Zeroes in a Factorial
