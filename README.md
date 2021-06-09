@@ -293,3 +293,6 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 62 (Microsoft SDE Test Series - GeeksForGeeks - Mathematics)
 
 - Trailing Zeroes in a Factorial
+- Lucky Numbers
+
+### Day 63 (Datastax cassandra and graphql workshop)
