@@ -302,3 +302,7 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 - Convert To Roman No
 - Roman No to Integer
 
+### Day 64 (Microsoft SDE Test Series - GeeksForGeeks - Stack )
+
+- Special Stack
+- Paranthesis Checker
