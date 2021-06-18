@@ -316,3 +316,13 @@ Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedI
 ### Day 68 ( Hackerearth )
 
 - Matrix Addition
+
+### Day 69 ( Hackerearth )
+
+- Count digits
+
+### Day 70 ( Hackerearth )
+
+- Count the bits
+- Going to Office
+- Let us understand computer
