@@ -1,5 +1,5 @@
 # DSA-practice
-Collection of problems from Leetcode, GeeksForGeeks, courses ( Udacity , LinkedIn Learning) and Google FooBar Challenge solved for practice.
+Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udacity , LinkedIn Learning) and Google FooBar Challenge solved for practice.
 
 ### Day 1 (LeetCode)
 
