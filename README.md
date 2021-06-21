@@ -326,3 +326,9 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 - Count the bits
 - Going to Office
 - Let us understand computer
+
+### Day 71 & 72 ( Sem Prep )
+
+### Day 73 ( Hackerearth )
+
+- Array Reversal
