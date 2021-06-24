@@ -337,3 +337,5 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 
 ### Day 76 ( HackerEarth )
 
+- Array Inversion (BruteForce)
+
