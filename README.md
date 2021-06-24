@@ -332,3 +332,8 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 ### Day 73 ( Hackerearth )
 
 - Array Reversal
+
+### Day 74 & 75 ( Sem Prep )
+
+### Day 76 ( HackerEarth )
+
