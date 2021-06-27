@@ -341,7 +341,8 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 
 ### Day 77 & 78 ( Sem Prep )
 
-### Day 79 ( Sixphrase Common Talent Assessment Adobe )
+### Day 79 ( Sixphrase Common Talent Assessment Adobe & Past Cocubes)
 
 - Maximum Product Subarray
-
+- Solve Equation
+- Sum of GCD
