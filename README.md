@@ -339,3 +339,9 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 
 - Array Inversion (BruteForce)
 
+### Day 77 & 78 ( Sem Prep )
+
+### Day 79 ( Sixphrase Common Talent Assessment Adobe )
+
+- Maximum Product Subarray
+
