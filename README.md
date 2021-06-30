@@ -346,3 +346,7 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 - Maximum Product Subarray
 - Solve Equation
 - Sum of GCD
+
+### Day 80 & 81 ( Project Work )
+
+### Day 82 ( GeeksForGeeks )
