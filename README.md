@@ -350,3 +350,9 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 ### Day 80 & 81 ( Project Work )
 
 ### Day 82 ( GeeksForGeeks )
+
+- Longest Increasing Subsequence
+
+### Day 83 ( GeeksForGeeks )
+
+- Array Inversions (Mergesort approach)
