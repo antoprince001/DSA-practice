@@ -356,3 +356,4 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 ### Day 83 ( GeeksForGeeks )
 
 - Array Inversions (Mergesort approach)
+- First Duplicate (Bruteforce)
