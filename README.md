@@ -360,10 +360,10 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 - First Duplicate (O(n) time and O(n) space)
 - First Duplicate (Linear time and constant space)
 
-### Day 83 ( Infosys Sample Problem )
+### Day 84 ( Infosys Sample Problem )
 
 - Unique Birthday Gift(DP approach)
 
-### Day 84
+### Day 85
 
-### Day 85 ( Standard Template Library Revision )
+### Day 86 ( Standard Template Library Revision )
