@@ -371,4 +371,4 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 - C++ Vector
 - Java Vector
 
-### Day 87 ( STL & Collection Revision - GeeksForGeeks)
+### Day 87 ( Java Collection Learning)
