@@ -366,7 +366,9 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 
 ### Day 85
 
-### Day 86 ( STL & Collection Revision )
+### Day 86 ( STL & Collection Revision - GeeksForGeeks)
 
 - C++ Vector
 - Java Vector
+
+### Day 87 ( STL & Collection Revision - GeeksForGeeks)
