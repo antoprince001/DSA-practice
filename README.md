@@ -1,5 +1,5 @@
 # DSA-practice
-Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udacity , LinkedIn Learning) and Google FooBar Challenge solved for practice.
+Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Sixphrase, courses ( Udacity , LinkedIn Learning) and Google FooBar Challenge solved for practice.
 
 ### Day 1 (LeetCode)
 
@@ -373,6 +373,10 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, courses ( Udac
 
 ### Day 87 ( Java Collection Learning)
 
-### Day 88 ( Hackerrank Java)
+- HashSet
+- ArrayList
 
+### Day 88 ( Java Collection Learning)
 
+- HashMap
+- Stack
