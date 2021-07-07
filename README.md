@@ -381,6 +381,6 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 - HashMap
 - Stack
 
-### Day 88 ( Full stack java training)
+### Day 89 ( Full stack java training)
 
 - RepetitiveDigitSum.java
