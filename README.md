@@ -380,3 +380,7 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 
 - HashMap
 - Stack
+
+### Day 88 ( Full stack java training)
+
+- RepetitiveDigitSum.java
