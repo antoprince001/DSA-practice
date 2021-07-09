@@ -1,3 +1,12 @@
+/*
+3
+1
+1
+222
+222
+33333
+33333
+*/
 import java.util.*;
 
 class Main{
