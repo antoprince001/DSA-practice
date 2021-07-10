@@ -383,4 +383,17 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 
 ### Day 89 ( Full stack java training)
 
-- RepetitiveDigitSum.java
+- Repetitive Digit Sum
+
+### Day 90 ( Full stack java training)
+
+- Inner Reducing Pattern
+- Days in year
+
+### Day 91 ( Full stack java training)
+
+- Eiffel tower pattern
+
+### Day 92 ( Full stack java training)
+
+- Alternate Swapping
