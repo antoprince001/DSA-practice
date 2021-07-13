@@ -397,3 +397,9 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 ### Day 92 ( Full stack java training)
 
 - Alternate Swapping
+
+### Day 93 & 94 ( Technical Interview Prep)
+
+### Day 95 ( Full stack java training)
+
+- Perfect Squares
