@@ -403,3 +403,5 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 ### Day 95 ( Full stack java training)
 
 - Perfect Squares
+- Minimum Cuts
+- Josephus Problem(Gun master problem)
