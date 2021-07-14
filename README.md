@@ -405,3 +405,9 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 - Perfect Squares
 - Minimum Cuts
 - Josephus Problem(Gun master problem)
+
+### Day 96 ( Full stack java & Sixphrase training)
+
+- Fermat Factorization
+- Sieve of Eratosthenes
+- Euclidean Algorithm GCD
