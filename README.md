@@ -411,3 +411,16 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 - Fermat Factorization
 - Sieve of Eratosthenes
 - Euclidean Algorithm GCD
+
+### Day 97 ( Full stack java & Sixphrase training)
+
+- Longest Common Subsequence - Java
+
+### Day 98 ( Full stack java & Sixphrase training)
+
+- String Rotation
+
+### Day 99 ( Full stack java & Sixphrase training)
+
+- Regex Match
+
