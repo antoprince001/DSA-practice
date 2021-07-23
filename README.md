@@ -425,3 +425,12 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 - Regex Match
 - Alphabet Pattern
 
+### Day 100 ( DS revision )
+
+- Linked List
+- Palindrome Linked List ( Find Mid and Reverse)
+
+### Day 101 ( LUCID interview questions )
+
+- Password Validation
+
