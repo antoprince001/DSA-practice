@@ -433,4 +433,15 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 ### Day 101 ( LUCID interview questions )
 
 - Password Validation
+- Binary Search Tree
+
+### Day 102 ( Javatpoint questions )
+
+- Armstrong Number
+- Automorphic Number
+- Factorial
+- Fibonacci
+- Generate Random
+- Number to Word
+- Palindrome
 
