@@ -445,11 +445,17 @@ Collection of problems from Leetcode, GeeksForGeeks, Hackerearth, Hackerrank, Si
 - Number to Word
 - Palindrome
 
-### Day 103 ( Hackerearth questions )
+### Day 103 ( Hackerearth, Zoho questions )
+
+- Maximize the Sum
+- Monk Rotations
+- Palindrome Max Count
+
+### Day 104 ( HackerEarth questions )
 
 - Minimum AND XOR OR
 
-### Day 103 ( Javatpoint questions )
+### Day 105 ( Javatpoint questions )
 
 - Permutations of a String
 
