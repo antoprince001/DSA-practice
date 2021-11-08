@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Fibonacci {
+  private static long calc_fib(int n) {
+
+    long first = -1, second = 1 , fib = 0;
+  
+    for(int idx = 0 ;idx <= n;idx++){
+        fib = first + second;
+        first = second;
+        second = fib;
+    }
+
+    return fib;
+  }
+
+  public static void main(String args[]) {
+    Scanner in = new Scanner(System.in);
+    int n = in.nextInt();
+
+    System.out.println(calc_fib(n));
+  }
+}
